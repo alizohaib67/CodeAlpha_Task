@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGPAcalculator", "CGPAcalculator.vcxproj", "{9E1190CA-4269-43C7-963B-68B319D2CAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Debug|x64.ActiveCfg = Debug|x64
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Debug|x64.Build.0 = Debug|x64
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Debug|x86.Build.0 = Debug|Win32
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Release|x64.ActiveCfg = Release|x64
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Release|x64.Build.0 = Release|x64
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Release|x86.ActiveCfg = Release|Win32
+		{9E1190CA-4269-43C7-963B-68B319D2CAA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E216C2C-83EA-4B5D-99F9-21582ABD1E16}
+	EndGlobalSection
+EndGlobal
